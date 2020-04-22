@@ -3,7 +3,7 @@
 ---
 
 *   [Choisir un type de serveur](#choosing-a-server-type)
-*   [Détails et acceptation de la license de Minecraft](#details-and-accepting-the-minecraft-eula)
+*   [Détails et acceptation de la licence de Minecraft](#details-and-accepting-the-minecraft-eula)
 *   [Ajouter les fichiers du serveur avec l'updater](#get-the-server-files-with-the-updater)
 *   [Finaliser](#wrapping-it-up)
 
